@@ -30,9 +30,10 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=IrfanUllahKhanMohmand&show_icons=true&locale=en" alt="Irfan Ullah" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IrfanUllahKhanMohmand&show_icons=true&locale=en&theme=dracula" alt="Irfan Ullah" />
 </p>
 
 </div>
+
 
 
