@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Flutter and Node.js**
 
-- 📫 How to reach me: irfanmhmnd@gmail.com
+- 📫 How to reach me: **irfanmhmnd@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/irfan-ullah-a2497018b/](https://www.linkedin.com/in/irfan-ullah-a2497018b/)
 
