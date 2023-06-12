@@ -2,25 +2,14 @@
 <h3 align="center">A passionate mobile application developer from Pakistan</h3>
 
 
-- 🔭 I’m currently working on [CubiLock](https://cubilock.com/)
+- 💬 Ask me about **Flutter and Node.js**
 
-- 🌱 I’m currently learning **jetpack compose & enterprise mobility**
+- 📫 How to reach me: irfanmhmnd@gmail.com
 
-- 👯 I’m looking to collaborate on [Flogs](https://github.com/zubairehman/Flogs)
+- 📄 Know about my experiences [https://www.linkedin.com/in/irfan-ullah-a2497018b/](https://www.linkedin.com/in/irfan-ullah-a2497018b/)
 
-- 👨‍💻 All of my projects are available at [http://zubairehman.surge.sh/#/](http://zubairehman.surge.sh/#/)
 
-- 📝 I regularly write articles on [https://medium.com/@zubairehman](https://medium.com/@zubairehman)
 
-- 💬 Ask me about **android, flutter and enterprise mobility**
-
-- 📫 How to reach me **zubairehman.work@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/zubairehman/](https://www.linkedin.com/in/zubairehman/)
-
-- ⚡ Fun fact **I think I am funny 😂**
-
-<h3 align="left">Languages and Tools:</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://dart.dev" target="_blank">
