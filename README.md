@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Irfan Ullah</h1>
 <h3 align="center">A passionate Flutter and Node.js developer from Pakistan</h3>
 
-
 - 💬 Ask me about **Flutter and Node.js**
-
 - 📫 How to reach me: **irfanmhmnd@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/irfan-ullah-a2497018b/](https://www.linkedin.com/in/irfan-ullah-a2497018b/)
-
-
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/irfan-ullah-a2497018b/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -32,6 +27,7 @@
   </a>
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IrfanUllahKhanMohmand&show_icons=true&locale=en" alt="Irfan Ullah" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IrfanUllahKhanMohmand&show_icons=true&locale=en" alt="Irfan Ullah" />
 </p>
+
