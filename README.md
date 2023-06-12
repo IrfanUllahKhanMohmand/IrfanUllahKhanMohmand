@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irfan Ullah</h1>
-<h3 align="center">A passionate mobile application developer from Pakistan</h3>
+<h3 align="center">A passionate Flutter and Node.js developer from Pakistan</h3>
 
 
 - 💬 Ask me about **Flutter and Node.js**
