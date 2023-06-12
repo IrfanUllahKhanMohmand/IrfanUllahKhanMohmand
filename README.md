@@ -33,7 +33,7 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubairehman&show_icons=true&locale=en" alt="zubairehman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IrfanUllahKhanMohmand&show_icons=true&locale=en" alt="IrfanUllahKhanMohmand" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zubair340" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/twitter.png" alt="zubair340" height="40" width="40"/></a>
