@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Irfan Ullah</h1>
-<h3 align="center">A passionate Flutter and Node.js developer from Pakistan</h3>
+<div align="center">
 
-- 💬 Ask me about **Flutter and Node.js**
-- 📫 How to reach me: **irfanmhmnd@gmail.com**
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/irfan-ullah-a2497018b/)
+<h1>Hi 👋, I'm Irfan Ullah</h1>
+<h3>A passionate Flutter and Node.js developer from Pakistan</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p>Ask me about <strong>Flutter and Node.js</strong></p>
+<p>How to reach me: <strong>irfanmhmnd@gmail.com</strong></p>
+<p>Know about my experiences on <a href="https://www.linkedin.com/in/irfan-ullah-a2497018b/">LinkedIn</a></p>
+
+<h3>Languages and Tools:</h3>
+<p>
   <a href="https://dart.dev" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
   </a>
@@ -27,7 +29,10 @@
   </a>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IrfanUllahKhanMohmand&show_icons=true&locale=en" alt="Irfan Ullah" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=IrfanUllahKhanMohmand&show_icons=true&locale=en" alt="Irfan Ullah" />
 </p>
+
+</div>
+
 
