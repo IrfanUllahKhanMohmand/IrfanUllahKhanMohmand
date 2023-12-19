@@ -31,10 +31,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Logo_Jitsi.svg" alt="jitsi meet" width="40" height="40" />
   </a>
   <a href="https://ffmpeg.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/ffmpeg-1.svg" alt="ffmpeg" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg" alt="ffmpeg" width="40" height="40" />
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40" />
   </a>
   <a href="https://bloclibrary.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" alt="bloc" width="40" height="40" />
