@@ -27,7 +27,20 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
+  <a href="https://jitsi.org" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Logo_Jitsi.svg" alt="jitsi meet" width="40" height="40" />
+  </a>
+  <a href="https://ffmpeg.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/ffmpeg-1.svg" alt="ffmpeg" width="40" height="40" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="40" height="40" />
+  </a>
+  <a href="https://bloclibrary.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" alt="bloc" width="40" height="40" />
+  </a>
 </p>
+
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=IrfanUllahKhanMohmand&show_icons=true&locale=en&theme=dracula" alt="Irfan Ullah" />
