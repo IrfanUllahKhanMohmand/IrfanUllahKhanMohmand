@@ -10,34 +10,34 @@
 <h3>Languages and Tools:</h3>
 <p>
   <a href="https://dart.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart"  height="40" />
   </a>
   <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"  height="40" />
   </a>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node"  height="40" />
   </a>
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express"  height="40" />
   </a>
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"  height="40" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="40" />
   </a>
   <a href="https://jitsi.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Logo_Jitsi.svg" alt="jitsi meet" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Logo_Jitsi.svg" alt="jitsi meet"  height="40" />
   </a>
   <a href="https://ffmpeg.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg" alt="ffmpeg" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg" alt="ffmpeg"  height="40" />
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws"  height="40" />
   </a>
   <a href="https://bloclibrary.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" alt="bloc" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" alt="bloc"  height="40" />
   </a>
 </p>
 
