@@ -37,7 +37,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws"  height="40" />
   </a>
   <a href="https://bloclibrary.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" alt="bloc"  height="40" />
+    <img src="https://bloclibrary.dev/_astro/bloc.DJLDGT9c_A0IIg.svg" alt="bloc"  height="40" />
   </a>
 </p>
 
