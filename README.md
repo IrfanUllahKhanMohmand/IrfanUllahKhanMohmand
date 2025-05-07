@@ -10,22 +10,22 @@
 <h3>Languages and Tools:</h3>
 <p>
   <a href="https://dart.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart"  height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="dart"  height="40" />
   </a>
   <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"  height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter"  height="40" />
   </a>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node"  height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="node"  height="40" />
   </a>
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express"  height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express"  height="40" />
   </a>
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="firebase"  height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="firebase"  height="40" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql"  height="40" />
   </a>
   <a href="https://jitsi.org" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Logo_Jitsi.svg" alt="jitsi meet"  height="40" />
@@ -34,7 +34,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg" alt="ffmpeg"  height="40" />
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws"  height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"  height="40" />
   </a>
   <a href="https://bloclibrary.dev/" target="_blank">
     <img src="https://bloclibrary.dev/_astro/bloc.DJLDGT9c_A0IIg.svg" alt="bloc"  height="40" />
